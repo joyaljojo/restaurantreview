@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<restaurants xmlns="http://www.algonquincollege.com/cst8259/labs">
+    <restaurant>
+        <serialNo>1</serialNo>
+        <restaurantName>Giovanni’s Italia Fine Dining</restaurantName>
+        <websites>
+            <website>
+                <websiteLabel>Facebook</websiteLabel>
+                <websiteUrl>www.facebook.com/fakediner1</websiteUrl>
+            </website>
+            <website>
+                <websiteLabel>Official Website</websiteLabel>
+                <websiteUrl>www.fakediner1.com</websiteUrl>
+            </website>
+        </websites>
+        <logo>
+            <height>150</height>
+            <width>150</width>
+            <logoLink>www.images.com/fakediner1Logo.png</logoLink>
+        </logo>
+        <location>
+            <address>gvf</address>
+			<city>fdc</city>
+			<province>frdc </province>
+			<postalCode>fcd</postalCode>
+			<country>Canada</country>
+        </location>
+        <phone type="phone">5554443333</phone>
+        <rating min="0.1" max="5.0">1.6</rating>
+        <foodTypes>
+            <foodType>American</foodType>
+            <foodType>Italian</foodType>
+        </foodTypes>
+        <costPerPerson min="1" max="4">3.0</costPerPerson>
+        <date>
+            2023-10-25
+        </date>
+        <reviewer>Jane Doe</reviewer>
+        <summary>cfdf</summary>
+        <menu>
+            <appetizers>
+                <dish>
+                    <dishName> Skewers</dishName>
+                    <dishDescription> tomatoes, imitation mozzarella, plastic basil leaves, synthetic glaze</dishDescription>
+                    <calories>100</calories>
+                    <dishPrice quantity="1" currency="CAD">9.99</dishPrice>
+                </dish>
+                <dish>
+                    <dishName> Calamari</dishName>
+                    <dishDescription> calamari rings, simulated flour, plastic lemon wedges, artificial sauce</dishDescription>
+                    <calories>150</calories>
+                    <dishPrice quantity="1" currency="CAD">8.95</dishPrice>
+                </dish>
+                <dish>
+                    <dishName> Dip</dishName>
+                    <dishDescription> spinach, synthetic artichoke hearts, faux cream cheese, ersatz sour cream, imitation parmesan cheese</dishDescription>
+                    <calories>120</calories>
+                    <dishPrice quantity="1" currency="CAD">7.50</dishPrice>
+                </dish>
+            </appetizers>
+            <entree>
+                <dish>
+                    <dishName> Lasagna</dishName>
+                    <dishDescription>Layers of  pasta, imitation meat, plastic cheese, synthetic tomato sauce</dishDescription>
+                    <calories>280</calories>
+                    <dishPrice quantity="1" currency="CAD">12.99</dishPrice>
+                </dish>
+                <dish>
+                    <dishName> Pizza</dishName>
+                    <dishDescription> pizza dough, artificial tomato sauce, synthetic cheese, ersatz toppings</dishDescription>
+                    <calories>220</calories>
+                    <dishPrice quantity="1" currency="CAD">10.95</dishPrice>
+                </dish>
+                <dish>
+                    <dishName> Spaghetti</dishName>
+                    <dishDescription> spaghetti, plastic meatballs, ersatz marinara sauce</dishDescription>
+                    <calories>180</calories>
+                    <dishPrice quantity="1" currency="CAD">9.50</dishPrice>
+                </dish>
+            </entree>
+        </menu>
+    </restaurant>
+    <restaurant>
+        <serialNo>2</serialNo>
+        <restaurantName>Gong’s Asian Cuisine</restaurantName>
+        <websites>
+            <website>
+                <websiteLabel>Twitter</websiteLabel>
+                <websiteUrl>www.twitter.com/fakediner2</websiteUrl>
+            </website>
+            <website>
+                <websiteLabel>Official Website</websiteLabel>
+                <websiteUrl>www.fakediner2.com</websiteUrl>
+            </website>
+        </websites>
+        <logo>
+            <height>160</height>
+            <width>160</width>
+            <logoLink>www.images.com/fakediner2Logo.png</logoLink>
+        </logo>
+        <location>
+            <address>1385 Woodroffe Avenue</address>
+            <city>Montreal</city>
+            <province>QC</province>
+			<postalCode>K2G 1V8</postalCode>
+        </location>
+        <phone type="phone">6665554444</phone>
+        <rating min="0.1" max="5.0">4.8</rating>
+        <foodTypes>
+            <foodType>Chinese</foodType>
+            <foodType>Mexican</foodType>
+        </foodTypes>
+        <costPerPerson min="1" max="4">2.8</costPerPerson>
+        <date>
+            2023-10-25
+        </date>
+        <reviewer>Mike Smith</reviewer>
+        <summary>The food is always consistent. A good variety of dim sum, sushi, Chinese and even Vietnamese dishes. The service is quick and the food is plentiful...</summary>
+        <menu>
+            <appetizers>
+                <dish>
+                    <dishName> Dumplings</dishName>
+                    <dishDescription>Imitation dumplings, faux dipping sauce</dishDescription>
+                    <calories>120</calories>
+                    <dishPrice quantity="1" currency="CAD">10.99</dishPrice>
+                </dish>
+                <dish>
+                    <dishName> Tacos</dishName>
+                    <dishDescription> taco shells, artificial meat, synthetic cheese, plastic lettuce, simulated salsa</dishDescription>
+                    <calories>200</calories>
+                    <dishPrice quantity="1" currency="CAD">11.95</dishPrice>
+                </dish>
+                <dish>
+                    <dishName> Guacamole</dishName>
+                    <dishDescription>Imitation avocados, synthetic onions, ersatz tomatoes, faux cilantro, plastic lime</dishDescription>
+                    <calories>90</calories>
+                    <dishPrice quantity="1" currency="CAD">8.50</dishPrice>
+                </dish>
+            </appetizers>
+            <entree>
+                <dish>
+                    <dishName> Szechuan Chicken</dishName>
+                    <dishDescription>Simulated chicken, faux Szechuan sauce, plastic vegetables, ersatz rice</dishDescription>
+                    <calories>250</calories>
+                    <dishPrice quantity="1" currency="CAD">13.99</dishPrice>
+                </dish>
+                <dish>
+                    <dishName> Enchiladas</dishName>
+                    <dishDescription>tortillas, synthetic filling, imitation enchilada sauce, ersatz cheese</dishDescription>
+                    <calories>280</calories>
+                    <dishPrice quantity="1" currency="CAD">12.95</dishPrice>
+                </dish>
+                <dish>
+                    <dishName> Pad Thai</dishName>
+                    <dishDescription>Imitation rice noodles, artificial shrimp, synthetic peanuts, ersatz tamarind sauce</dishDescription>
+                    <calories>220</calories>
+                    <dishPrice quantity="1" currency="CAD">11.50</dishPrice>
+                </dish>
+            </entree>
+        </menu>
+    </restaurant>
+    <restaurant>
+        <serialNo>3</serialNo>
+        <restaurantName>Baker Street TexMex Grill</restaurantName>
+        <websites>
+            <website>
+                <websiteLabel>Twitter</websiteLabel>
+                <websiteUrl>www.texmaxgrill.com</websiteUrl>
+            </website>
+            <website>
+                <websiteLabel>Official Website</websiteLabel>
+                <websiteUrl>www.fakediner2.com</websiteUrl>
+            </website>
+        </websites>
+        <logo>
+            <height>160</height>
+            <width>160</width>
+            <logoLink>www.images.com/fakediner2Logo.png</logoLink>
+        </logo>
+        <location>
+            <address>200 Baker Street</address>
+            <city>Ottawa</city>
+			<province>ON</province>
+			<postalCode>B1G 1V1</postalCode>
+        </location>
+        <phone type="phone">6665554444</phone>
+        <rating min="0.1" max="5.0">4.8</rating>
+        <foodTypes>
+            <foodType>Chinese</foodType>
+            <foodType>Mexican</foodType>
+        </foodTypes>
+        <costPerPerson min="1" max="4">2.8</costPerPerson>
+        <date>
+            2023-10-25
+        </date>
+        <reviewer>Mike Smith</reviewer>
+        <summary>
+            My favorite restaurant in Ottawa. The family who owns it are very warm and lovely people. They are incredible at recognizing you when you come back...
+        </summary>
+        <menu>
+            <appetizers>
+                <dish>
+                    <dishName> Dumplings</dishName>
+                    <dishDescription>Imitation dumplings, faux dipping sauce</dishDescription>
+                    <calories>120</calories>
+                    <dishPrice quantity="1" currency="CAD">10.99</dishPrice>
+                </dish>
+                <dish>
+                    <dishName> Tacos</dishName>
+                    <dishDescription> taco shells, artificial meat, synthetic cheese, plastic lettuce, simulated salsa</dishDescription>
+                    <calories>200</calories>
+                    <dishPrice quantity="1" currency="CAD">11.95</dishPrice>
+                </dish>
+                <dish>
+                    <dishName> Guacamole</dishName>
+                    <dishDescription>Imitation avocados, synthetic onions, ersatz tomatoes, faux cilantro, plastic lime</dishDescription>
+                    <calories>90</calories>
+                    <dishPrice quantity="1" currency="CAD">8.50</dishPrice>
+                </dish>
+            </appetizers>
+            <entree>
+                <dish>
+                    <dishName> Szechuan Chicken</dishName>
+                    <dishDescription>Simulated chicken, faux Szechuan sauce, plastic vegetables, ersatz rice</dishDescription>
+                    <calories>250</calories>
+                    <dishPrice quantity="1" currency="CAD">13.99</dishPrice>
+                </dish>
+                <dish>
+                    <dishName> Enchiladas</dishName>
+                    <dishDescription>tortillas, synthetic filling, imitation enchilada sauce, ersatz cheese</dishDescription>
+                    <calories>280</calories>
+                    <dishPrice quantity="1" currency="CAD">12.95</dishPrice>
+                </dish>
+                <dish>
+                    <dishName> Pad Thai</dishName>
+                    <dishDescription>Imitation rice noodles, artificial shrimp, synthetic peanuts, ersatz tamarind sauce</dishDescription>
+                    <calories>220</calories>
+                    <dishPrice quantity="1" currency="CAD">11.50</dishPrice>
+                </dish>
+            </entree>
+        </menu>
+    </restaurant>
+</restaurants>
